@@ -1,4 +1,4 @@
-## **Biografia de Oliver Tree** 🛹🎸
+## **Projeto Biografia - Oliver Tree** 🛹🎸
 ### Um projeto web simples e retrô em HTML puro utilizando a estrutura de <frameset> para apresentar a história, estilo e carreira do artista Oliver Tree.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
