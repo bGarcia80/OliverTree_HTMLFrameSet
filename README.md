@@ -24,14 +24,4 @@ HTML (Estrutura com <frameset>)
 
 `Nota de compatibilidade: O elemento <frameset> foi descontinuado no HTML5 moderno. Este projeto é uma exploração prática de tecnologias web feito em sala de aula.`
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🚧 Próximos Passos
-
-[ ] Terminar a página inicial do site.
-
-[ ] Iniciar a produção da área de carreira, vida pessoal e etc. com mais detalhes sobre as diferentes "eras" do Oliver Tree.
-
-[ ] Trabalhar na seção dedicada à discografia (álbuns e singles).
-
-[ ] Inserir uma galeria simples de imagens.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
