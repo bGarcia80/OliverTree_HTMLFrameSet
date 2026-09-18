@@ -25,3 +25,5 @@ HTML (Estrutura com <frameset>)
 `Nota de compatibilidade: O elemento <frameset> foi descontinuado no HTML5 moderno. Este projeto é uma exploração prática de tecnologias web feito em sala de aula.`
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Estarei sempre postando novos releases para caso vocês, usuários queiram o código-fonte de cada versão!
