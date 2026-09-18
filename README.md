@@ -22,7 +22,7 @@ Uso Intuitivo: Navegação simplificada sem menus escondidos ou mecânicas compl
 🛠️ Tecnologias Utilizadas
 HTML (Estrutura com <frameset>)
 
-`Nota de compatibilidade: O elemento <frameset> foi descontinuado no HTML5 moderno. Este projeto é uma exploração prática e retrô de tecnologias antigas da web.`
+`Nota de compatibilidade: O elemento <frameset> foi descontinuado no HTML5 moderno. Este projeto é uma exploração prática de tecnologias web feito em sala de aula.`
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
