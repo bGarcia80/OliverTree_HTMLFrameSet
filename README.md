@@ -27,3 +27,11 @@ HTML (Estrutura com <frameset>)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Estarei sempre postando novos releases para caso vocês, usuários queiram o código-fonte de cada versão!
+
+Versão atual: 0.1.1
+
+Histórico de versões publicadas:
+0.1.0 - 18/set/2026 first-build
+0.1.1 - 18/set/2026 second-build
+
+Versão 0.1.2 em progresso
